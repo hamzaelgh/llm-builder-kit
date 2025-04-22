@@ -1,4 +1,4 @@
-# llm-builder-kit 
+# LLM Builder Kit  
 
 This repository tracks my journey to mastering LLaMA model training and serving on Azure. It combines hands-on learning with real-world tools like DeepSpeed, Megatron-LM, Hugging Face, Azure HPC (SLURM), AKS, and Azure Lustre.
 
